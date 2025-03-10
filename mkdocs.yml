@@ -2,7 +2,7 @@ site_name: "Sample-Backstage"
 site_description: "仅用于样例使用"
 
 nav:
-  - Introduction: ../README.md
+  - Introduction: index.md
 
 plugins:
   - techdocs-core
