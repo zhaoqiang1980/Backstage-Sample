@@ -10,3 +10,5 @@ spec:
   type: service
   lifecycle: experimental
   owner: "group:yumc/g-arch"
+  providesApis:
+    - testStarter-api
