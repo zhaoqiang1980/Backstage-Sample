@@ -1,12 +1,4 @@
 apiVersion: backstage.io/v1alpha1
-kind: Domain
-metadata:
-  name: Yum_Sample
-  description: Everything about artists
-spec:
-  owner: yumc/g-arch
----
-apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
   name: my-system
